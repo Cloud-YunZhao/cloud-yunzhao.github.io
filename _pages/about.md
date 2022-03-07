@@ -31,9 +31,9 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* "Zhao Y, Haiwang Y E, Lei T, et al. Theoretical study of damage characteristics on ore pass wall based on the erosion-wearing theory[J]. Chinese Journal of Rock Mechanics & Engineering, 2017." 
+* "Zhao Y, Ye H, Lei T, et al. Theoretical Calculation of Initial Collision Position on Shaft Wall of an Adit in Open-pit Mine[J]. Metal Mine, 2017."
+* "Ye H, Zhao Y, Ouyang J, et al. Numerical Simulation on the Motion of Ore and the Damage of Shaft Wall in Chute System of an Adit[J]. Metal Mine, 2017."
   
 Presentation and poster
 ======
