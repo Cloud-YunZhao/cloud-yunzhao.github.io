@@ -57,20 +57,20 @@ redirect_from:
   
 学术报告
 ======
-* **Numerical investigation of the size effect of laminated shale under biaxial compressive stress state**  
-  Yun Zhao and Brijes Mishra  
+* **双轴应力状态下页岩强度的尺寸效应数值模拟研究**  
+  赵昀， Brijes Mishra  
   匹兹堡煤矿协会-学生学术报告, 2020
 
-* **Size effect on the strength of shale under different compressive stress conditions**  
-  Yun Zhao and Brijes Mishra  
+* **多轴应力状态下页岩强度的尺寸效应数值模拟研究**  
+  赵昀， Brijes Mishra  
   匹兹堡煤矿协会-学生学术报告, 2021 | [照片](http://cloud-yunzhao.github.io/images/PCMIA2021.jpg)
 
-* **Size-dependent Mohr-Coulomb failure criterion**  
-  Yun Zhao and Brijes Mishra  
+* **具有尺寸效应的摩尔库伦强度准则**  
+  赵昀， Brijes Mishra  
   美国采矿协会-研究生海报展, 2022 | [照片](http://cloud-yunzhao.github.io/images/Poster1.png)
  
-* **Numerical investigation of the size effect on shale strength under uniaxial stress state**  
-  Yun Zhao, Brijes Mishra and Qingwen Shi  
+* **单轴应力状态下页岩强度的尺寸效应数值模拟研究**  
+  赵昀, Brijes Mishra  
   美国采矿协会年会, 2022 | [照片](http://cloud-yunzhao.github.io/images/Presentation1.png)
   
 获奖情况
