@@ -59,7 +59,7 @@ Presentation and poster
  
 * **Numerical investigation of the size effect on shale strength under uniaxial stress state**  
   Yun Zhao, Brijes Mishra and Qingwen Shi  
-  SME Annual Conference, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Presentation1.png) | [Paper](http://cloud-yunzhao.github.io/files/Conference Paper1.pdf)
+  SME Annual Conference, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Presentation1.png) | [Paper](http://cloud-yunzhao.github.io/files/ConferencePaper1.pdf)
   
 Awards
 ======
@@ -69,4 +69,4 @@ Awards
 * WAAIME Scholarship, SME, 2020
 * WAAIME Scholarship, SME, 2021
 * Mining Engineering Faculty Award, West Virginia University, 2021
-* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022  [Picture](http://cloud-yunzhao.github.io/images/Award1.png)
+* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022 [Picture](http://cloud-yunzhao.github.io/images/Award1.png)
