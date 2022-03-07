@@ -51,7 +51,7 @@ Presentation and poster
 
 * **Size effect on the strength of shale under different compressive stress conditions** 
   Yun Zhao and Brijes Mishra  
-  SME/PCMIA Student Competition Presentation, 2021
+  SME/PCMIA Student Competition Presentation, 2021 | [Picture](http://cloud-yunzhao.github.io/images/PCMIA2021.png)
 
 * **Size-dependent Mohr-Coulomb failure criterion**  
   Yun Zhao and Brijes Mishra  
@@ -69,4 +69,5 @@ Awards
 * WAAIME Scholarship, SME, 2020
 * WAAIME Scholarship, SME, 2021
 * Mining Engineering Faculty Award, West Virginia University, 2021
-* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Award1.png)
+* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Award1.png)  
+
