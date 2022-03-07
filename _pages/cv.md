@@ -59,11 +59,11 @@ redirect_from:
 ======
 * **双轴应力状态下页岩强度的尺寸效应数值模拟研究**  
   赵昀, Brijes Mishra  
-  匹兹堡煤矿协会-学生学术报告, 2020
+  匹兹堡煤矿协会-学生报告, 2020
 
 * **多轴应力状态下页岩强度的尺寸效应数值模拟研究**  
   赵昀, Brijes Mishra  
-  匹兹堡煤矿协会-学生学术报告, 2021 | [照片](http://cloud-yunzhao.github.io/images/PCMIA2021.jpg)
+  匹兹堡煤矿协会-学生报告, 2021 | [照片](http://cloud-yunzhao.github.io/images/PCMIA2021.jpg)
 
 * **具有尺寸效应的摩尔库伦强度准则**  
   赵昀, Brijes Mishra  
