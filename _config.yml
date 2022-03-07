@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Yun Zhao/赵昀"
+name                     : &name "Yun Zhao"
 description              : &description "personal description"
 url                      : https://cloud-yunzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yun Zhao"
+  name             : "Yun Zhao/赵昀"
   avatar           : "bio-photo.jpeg"
   bio              : "Let's go Mountaineers!"  
   location         : "Morgantown, WV, USA"
