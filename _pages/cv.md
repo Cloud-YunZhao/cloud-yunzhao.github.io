@@ -24,13 +24,13 @@ redirect_from:
 
 行业经验
 ======
-* **Stability analysis of the slope in an open-pit mine**   
+* **含软弱夹层的露天矿边坡稳定性分析**   
   I developed a numerical model that enable the dynamic analysis of slope failure. The outcome is part of my bachelor’s thesis, which was awarded the “Excellent bachelor's thesis of Hubei Province”.
 
-* **Damage analysis of the ore pass wall and its protection**   
+* **露天矿平硐溜井系统井壁冲击破损特性研究**   
   I simulated the ore flow movement, determined the key position of failure, and proposed the protection strategy. My effort enables mining engineers easily to determine the failure position and damage severity on ore pass in practice.
   
-* **Anasotropy and size effect of shale strength**  
+* **页岩抗压强度的各项异性和尺寸效应研究**  
   I proposed an anisotropic and size-dependent failure criterion for describing the shale strength. I developed a bonded-particle model for modeling the anisotropy and size effect of shale. I am conducting the uniaxial, biaxial, and triaxial compression test of shale at different sizes and different orientations. 
   
 论文发表
@@ -59,19 +59,19 @@ redirect_from:
 ======
 * **Numerical investigation of the size effect of laminated shale under biaxial compressive stress state**  
   Yun Zhao and Brijes Mishra  
-  SME/PCMIA Student Competition Presentation, 2020
+  匹兹堡煤矿协会-学生学术报告, 2020
 
 * **Size effect on the strength of shale under different compressive stress conditions**  
   Yun Zhao and Brijes Mishra  
-  SME/PCMIA Student Competition Presentation, 2021 | [照片](http://cloud-yunzhao.github.io/images/PCMIA2021.jpg)
+  匹兹堡煤矿协会-学生学术报告, 2021 | [照片](http://cloud-yunzhao.github.io/images/PCMIA2021.jpg)
 
 * **Size-dependent Mohr-Coulomb failure criterion**  
   Yun Zhao and Brijes Mishra  
-  SME Graduate Poster Contest, 2022 | [照片](http://cloud-yunzhao.github.io/images/Poster1.png)
+  美国采矿协会-研究生海报展, 2022 | [照片](http://cloud-yunzhao.github.io/images/Poster1.png)
  
 * **Numerical investigation of the size effect on shale strength under uniaxial stress state**  
   Yun Zhao, Brijes Mishra and Qingwen Shi  
-  SME Annual Conference, 2022 | [照片](http://cloud-yunzhao.github.io/images/Presentation1.png)
+  美国采矿协会年会, 2022 | [照片](http://cloud-yunzhao.github.io/images/Presentation1.png)
   
 获奖情况
 ======
