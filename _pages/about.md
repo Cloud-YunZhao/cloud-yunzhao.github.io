@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-I am currently a PhD candidate at West Virginia University, working with [Prof. Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml) to investigate the size effect on the strength of shale under compressive stress conditions. This work will help improve the understanding of roof failure in underground coal mines. I have been studying and researching in mining engineering for 9 years. My education starts from open-pit metal mines to underground coal mines. The research includes slope, ore pass, and mine roof.
+I am currently a PhD candidate at West Virginia University, working with [Prof. Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml) to investigate the size effect on the strength of shale under compressive stress conditions. This work will help improve the understanding of roof failure in underground coal mines. I have been studying and researching in mining engineering for 10 years. My education starts from open-pit metal mines to underground coal mines. The research includes slope, ore pass, and mine roof.
 
 Education
 ======
