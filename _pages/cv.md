@@ -58,26 +58,32 @@ redirect_from:
 ======
 * **双轴应力状态下页岩强度的尺寸效应数值模拟研究**  
   赵昀, Brijes Mishra  
-  匹兹堡煤矿协会-学生报告, 2020
+  匹兹堡煤炭协会-学生报告, 2020
 
 * **多轴应力状态下页岩强度的尺寸效应数值模拟研究**  
   赵昀, Brijes Mishra  
-  匹兹堡煤矿协会-学生报告, 2021 | [照片](http://cloud-yunzhao.github.io/images/PCMIA2021.jpg)
+  匹兹堡煤炭协会-学生报告, 2021 | [照片](http://cloud-yunzhao.github.io/images/PCMIA2021.jpg)
 
 * **具有尺寸效应的摩尔库伦强度准则**  
   赵昀, Brijes Mishra  
-  美国采矿协会-研究生海报展, 2022 | [照片](http://cloud-yunzhao.github.io/images/Poster1.png)
+  美国矿业协会-研究生海报展, 2022 | [照片](http://cloud-yunzhao.github.io/images/Poster1.png)
  
 * **单轴应力状态下页岩强度的尺寸效应数值模拟研究**  
   赵昀, Brijes Mishra  
-  美国采矿协会年会, 2022 | [照片](http://cloud-yunzhao.github.io/images/Presentation1.png)
+  美国矿业协会年会, 2022 | [照片](http://cloud-yunzhao.github.io/images/Presentation1.png) | [论文](http://cloud-yunzhao.github.io/files/Conferencepaper1.pdf)
   
 获奖情况
 ======
 * 硕士研究生卓越奖学金, 武汉理工大学, 2016
+
 * 硕士研究生国家奖学金, 教育部, 2017
+
 * 硕士研究生国家奖学金, 教育部,2018
-* WAAIME奖学金, 美国采矿协会, 2020
-* WAAIME奖学金, 美国采矿协会, 2021
+
+* WAAIME奖学金, 美国矿业协会, 2020
+
+* WAAIME奖学金, 美国矿业协会, 2021
+
 * Mining Engineering Faculty Award, 西弗吉尼亚大学, 2021
-* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, 美国采矿协会, 2022 [照片](http://cloud-yunzhao.github.io/images/Award1.png)
+
+* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, 美国矿业协会, 2022 [照片](http://cloud-yunzhao.github.io/images/Award1.png)
