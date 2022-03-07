@@ -35,13 +35,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentation and poster
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Award
+Awards
 ======
 * Outstanding Graduate Student Scholarship, Wuhan University of Technology, 2016
 * National Graduate Student Scholarship, 2017
