@@ -20,7 +20,7 @@ Education
   GPA: 87.4/100, 导师: [叶海旺](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)  
   
 * **博士, 矿业工程, 西弗吉尼亚大学, 2022**  
-  GPA: 87.4/100, 导师: [Brijes Mishra](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml) 
+  GPA: 87.4/100, 导师: [Brijes Mishra]((https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml)) 
 
 Work experience
 ======
