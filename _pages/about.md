@@ -41,7 +41,7 @@ Publications
   Chinese Journal of Rock Mechanics and Engineering, 2017 | [Paper](http://cloud-yunzhao.github.io/files/Paper1.pdf)
  
 * **Theoretical Calculation of Initial Collision Position on Shaft Wall of an Adit in Open-pit Mine**  
-  Yun Zhao, Haiwang Ye, Tao Lei, Chao Wang, Qizhou Wang, and Mei Long 
+  Yun Zhao, Haiwang Ye, Tao Lei, Chao Wang, Qizhou Wang, and Mei Long  
   Metal Mine, 2017 | [Paper](http://cloud-yunzhao.github.io/files/Paper2.pdf)
  
 * **Numerical Simulation on the Motion of Ore and the Damage of Shaft Wall in Chute System of an Adit**  
