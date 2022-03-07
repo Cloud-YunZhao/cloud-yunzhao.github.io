@@ -52,6 +52,10 @@ Publications
   Zixuan Li, Tao Lei, Haiwang Ye, Yun Zhao, Qizhou Wang, and Lifeng Li  
   Mining and Metallurgical Engineering, 2020 | [Paper](http://cloud-yunzhao.github.io/files/Paper3.pdf)
 
+* **DEM Analysis of the Effect of Lamination Properties on the Stability of an Underground Coal Mine Entry with Laminated Shale Roof**  
+  Qingwen Shi, Brijes Mishra, Yun Zhao  
+  Mining, Metallurgy & Exploration, 2022 | [Paper](http://cloud-yunzhao.github.io/files/Paper5.pdf)
+
   
 Presentation and poster
 ======
