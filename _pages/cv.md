@@ -53,20 +53,20 @@ redirect_from:
 
 * **DEM Analysis of the Effect of Lamination Properties on the Stability of an Underground Coal Mine Entry with Laminated Shale Roof**  
   Qingwen Shi, Brijes Mishra, Yun Zhao  
-  Mining, Metallurgy & Exploration, 2022 | [Paper](http://cloud-yunzhao.github.io/files/Paper5.pdf)
+  Mining, Metallurgy & Exploration, 2022 | [论文](http://cloud-yunzhao.github.io/files/Paper5.pdf)
   
 学术报告
 ======
 * **双轴应力状态下页岩强度的尺寸效应数值模拟研究**  
-  赵昀， Brijes Mishra  
+  赵昀, Brijes Mishra  
   匹兹堡煤矿协会-学生学术报告, 2020
 
 * **多轴应力状态下页岩强度的尺寸效应数值模拟研究**  
-  赵昀， Brijes Mishra  
+  赵昀, Brijes Mishra  
   匹兹堡煤矿协会-学生学术报告, 2021 | [照片](http://cloud-yunzhao.github.io/images/PCMIA2021.jpg)
 
 * **具有尺寸效应的摩尔库伦强度准则**  
-  赵昀， Brijes Mishra  
+  赵昀, Brijes Mishra  
   美国采矿协会-研究生海报展, 2022 | [照片](http://cloud-yunzhao.github.io/images/Poster1.png)
  
 * **单轴应力状态下页岩强度的尺寸效应数值模拟研究**  
