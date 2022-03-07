@@ -45,6 +45,14 @@ Publications
   
 Presentation and poster
 ======
+* **Numerical investigation of the size effect of laminated shale under biaxial compressive stress state**
+  Yun Zhao and Brijes Mishra  
+  SME/PCMIA Student Competition Presentation, 2020
+
+* **Size effect on the strength of shale under different compressive stress conditions** 
+  Yun Zhao and Brijes Mishra  
+  SME/PCMIA Student Competition Presentation, 2021
+
 * **Size-dependent Mohr-Coulomb failure criterion**  
   Yun Zhao and Brijes Mishra  
   SME Graduate Poster Contest, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Poster1.png)
