@@ -33,15 +33,15 @@ Publications
 ======
 * **Theoretical study of damage characteristics on ore pass wall based on the erosion-wearing theory**  
   Yun Zhao, Haiwang Ye, Tao Lei, Chao Wang, Qizhou Wang, and Mei Long  
-  Chinese Journal of Rock Mechanics and Engineering, 2017 | [paper](http://cloud-yunzhao.github.io/files/Paper1.pdf)
+  Chinese Journal of Rock Mechanics and Engineering, 2017|[paper](http://cloud-yunzhao.github.io/files/Paper1.pdf)
  
 * **Theoretical Calculation of Initial Collision Position on Shaft Wall of an Adit in Open-pit Mine**  
   Yun Zhao, Haiwang Ye, Tao Lei, Chao Wang, Qizhou Wang, and Mei Long 
-  Metal Mine, 2017 | [paper](http://cloud-yunzhao.github.io/files/Paper2.pdf)
+  Metal Mine, 2017|[paper](http://cloud-yunzhao.github.io/files/Paper2.pdf)
  
 * **Numerical Simulation on the Motion of Ore and the Damage of Shaft Wall in Chute System of an Adit**  
   Haiwang Ye, Yun Zhao, Jian Ouyang, Tao Lei, Chao Wang, Mei Long  
-  Metal Mine, 2017 | [paper](http://cloud-yunzhao.github.io/files/Paper3.pdf)
+  Metal Mine, 2017|[paper](http://cloud-yunzhao.github.io/files/Paper3.pdf)
   
 Presentation and poster
 ======
@@ -51,15 +51,15 @@ Presentation and poster
 
 * **Size effect on the strength of shale under different compressive stress conditions** 
   Yun Zhao and Brijes Mishra  
-  SME/PCMIA Student Competition Presentation, 2021 | [Picture](http://cloud-yunzhao.github.io/images/PCMIA2021.png)
+  SME/PCMIA Student Competition Presentation, 2021|[Picture](http://cloud-yunzhao.github.io/images/PCMIA2021.jpg)
 
 * **Size-dependent Mohr-Coulomb failure criterion**  
   Yun Zhao and Brijes Mishra  
-  SME Graduate Poster Contest, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Poster1.png)
+  SME Graduate Poster Contest, 2022|[Picture](http://cloud-yunzhao.github.io/images/Poster1.png)
  
 * **Numerical investigation of the size effect on shale strength under uniaxial stress state**  
   Yun Zhao, Brijes Mishra and Qingwen Shi  
-  SME Annual Conference, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Presentation1.png)
+  SME Annual Conference, 2022|[Picture](http://cloud-yunzhao.github.io/images/Presentation1.png)
   
 Awards
 ======
@@ -69,5 +69,5 @@ Awards
 * WAAIME Scholarship, SME, 2020
 * WAAIME Scholarship, SME, 2021
 * Mining Engineering Faculty Award, West Virginia University, 2021
-* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Award1.png)  
+* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022|[Picture](http://cloud-yunzhao.github.io/images/Award1.png)  
 
