@@ -12,9 +12,9 @@ I am currently a PhD candidate at West Virginia University, working with [Prof. 
 
 Education
 ======
-* B.S. in Minining Enginerring, Wuhan University of Technology, 2016
-* M.S. in Minining Enginerring, Wuhan University of Technology, 2019
-* Ph.D in Minining Enginerring, West Virginia University, August 2022 (expected)
+* **B.S. in Minining Enginerring, Wuhan University of Technology, 2016**
+* **M.S. in Minining Enginerring, Wuhan University of Technology, 2019**
+* **Ph.D in Minining Enginerring, West Virginia University, August 2022 (expected)**
 
 Work experience
 ======
@@ -63,10 +63,10 @@ Presentation and poster
   
 Awards
 ======
-* Outstanding Graduate Student Scholarship, Wuhan University of Technology, 2016
-* National Graduate Student Scholarship, 2017
-* National Graduate Student Scholarship, 2018
-* WAAIME Scholarship, SME, 2020
-* WAAIME Scholarship, SME, 2021
-* Mining Engineering Faculty Award, West Virginia University, 2021
-* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022 [Picture](http://cloud-yunzhao.github.io/images/Award1.png)
+* **Outstanding Graduate Student Scholarship, Wuhan University of Technology, 2016**
+* **National Graduate Student Scholarship, 2017**
+* **National Graduate Student Scholarship, 2018**
+* **WAAIME Scholarship, SME, 2020**
+* **WAAIME Scholarship, SME, 2021**
+* **Mining Engineering Faculty Award, West Virginia University, 2021**
+* **Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022** [Picture](http://cloud-yunzhao.github.io/images/Award1.png)
