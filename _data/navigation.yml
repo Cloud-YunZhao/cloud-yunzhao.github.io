@@ -18,8 +18,8 @@ main:
   - title: "中文版"
     url: /cv/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #   url: /cv/
     
  # - title: "Guide"
  #   url: /markdown/
