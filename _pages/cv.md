@@ -74,16 +74,16 @@ redirect_from:
   
 获奖情况
 ======
-* 硕士研究生卓越奖学金, 武汉理工大学, 2016
+* **硕士研究生卓越奖学金, 武汉理工大学, 2016**
 
-* 硕士研究生国家奖学金, 教育部, 2017
+* **硕士研究生国家奖学金, 教育部, 2017**
 
-* 硕士研究生国家奖学金, 教育部,2018
+* **硕士研究生国家奖学金, 教育部,2018**
 
-* WAAIME奖学金, 美国矿业协会, 2020
+* **WAAIME奖学金, 美国矿业协会, 2020**
 
-* WAAIME奖学金, 美国矿业协会, 2021
+* **WAAIME奖学金, 美国矿业协会, 2021**
 
-* Mining Engineering Faculty Award, 西弗吉尼亚大学, 2021
+* **Mining Engineering Faculty Award, 西弗吉尼亚大学, 2021**
 
-* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, 美国矿业协会, 2022 [照片](http://cloud-yunzhao.github.io/images/Award1.png)
+* **Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, 美国矿业协会, 2022** [照片](http://cloud-yunzhao.github.io/images/Award1.png)
