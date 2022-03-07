@@ -31,15 +31,15 @@ Work experience
 
 Publications
 ======
-* Theoretical study of damage characteristics on ore pass wall based on the erosion-wearing theory
+* Theoretical study of damage characteristics on ore pass wall based on the erosion-wearing theory  
   Zhao Yun, Ye Haiwang, Lei Tao, Wang Chao, Wang Qizhou, Long Mei  
   Chinese Journal of Rock Mechanics and Engineering, 2017 | [paper](http://cloud-yunzhao.github.io/files/Paper1.pdf)
  
-* Theoretical Calculation of Initial Collision Position on Shaft Wall of an Adit in Open-pit Mine
+* Theoretical Calculation of Initial Collision Position on Shaft Wall of an Adit in Open-pit Mine  
   Zhao Yun, Ye Haiwang, Lei Tao, Wang Chao, Wang Qizhou, Long Mei  
   Chinese Journal of Rock Mechanics and Engineering, 2017 | [paper](http://cloud-yunzhao.github.io/files/Paper2.pdf)
  
-* Numerical Simulation on the Motion of Ore and the Damage of Shaft Wall in Chute System of an Adit
+* Numerical Simulation on the Motion of Ore and the Damage of Shaft Wall in Chute System of an Adit  
   Ye Haiwang, Zhao Yun, Ouyang Jian, Lei Tao, Wang Chao, Long Mei  
   Chinese Journal of Rock Mechanics and Engineering, 2017 | [paper](http://cloud-yunzhao.github.io/files/Paper3.pdf)
   
