@@ -11,7 +11,7 @@ redirect_from:
  
 I am currently a PhD candidate at West Virginia University, working with [Prof. Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml) to investigate the size effect on the strength of shale under compressive stress conditions. This work will help improve the understanding of roof failure in underground coal mines. I have been studying and researching in mining engineering for 10 years. My education starts from open-pit metal mines to underground coal mines. The research includes slope, ore pass, and mine roof.
 
-Education
+教育背景
 ======
 * **本科, 矿业工程, 武汉理工大学, 2016**  
   GPA: 87.4/100, 导师: [叶海旺](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)  
@@ -22,7 +22,7 @@ Education
 * **博士, 矿业工程, 西弗吉尼亚大学, 2022**  
   GPA: 87.4/100, 导师: [Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml)
 
-Work experience
+行业经验
 ======
 * **Stability analysis of the slope in an open-pit mine**   
   I developed a numerical model that enable the dynamic analysis of slope failure. The outcome is part of my bachelor’s thesis, which was awarded the “Excellent bachelor's thesis of Hubei Province”.
@@ -33,9 +33,7 @@ Work experience
 * **Anasotropy and size effect of shale strength**  
   I proposed an anisotropic and size-dependent failure criterion for describing the shale strength. I developed a bonded-particle model for modeling the anisotropy and size effect of shale. I am conducting the uniaxial, biaxial, and triaxial compression test of shale at different sizes and different orientations. 
   
-
-
-Publications
+论文发表
 ======
 * **基于冲蚀磨损理论的溜井井壁破损特性理论研究**  
   赵昀, 叶海旺, 雷涛, 王超, 王其洲, 龙梅  
@@ -53,7 +51,7 @@ Publications
   李子旋, 雷涛, 叶海旺, 赵昀, 王其洲, 李立峰  
   矿冶工程, 2020
   
-Presentation and poster
+学术报告
 ======
 * **Numerical investigation of the size effect of laminated shale under biaxial compressive stress state**  
   Yun Zhao and Brijes Mishra  
@@ -71,7 +69,7 @@ Presentation and poster
   Yun Zhao, Brijes Mishra and Qingwen Shi  
   SME Annual Conference, 2022 | [照片](http://cloud-yunzhao.github.io/images/Presentation1.png)
   
-Awards
+获奖情况
 ======
 * 硕士研究生卓越奖学金, 武汉理工大学, 2016
 * 硕士研究生国家奖学金, 教育部, 2017
