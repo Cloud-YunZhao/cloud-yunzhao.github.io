@@ -22,10 +22,10 @@ Work experience
   I developed a numerical model that enable the dynamic analysis of slope failure. The outcome is part of my bachelor’s thesis, which was awarded the “Excellent bachelor's thesis of Hubei Province”.
 
 * **Damage analysis of the ore pass wall and its protection**   
-  I simulated the ore flow movement, determined the key position of failure, and proposed the protection strategy. My effort enables mining engineers easily to determine the failure position and damage severity on ore pass in practice. The research produced three peer-review journal papers
+  I simulated the ore flow movement, determined the key position of failure, and proposed the protection strategy. My effort enables mining engineers easily to determine the failure position and damage severity on ore pass in practice.
   
 * **Anasotropy and size effect of shale strength**  
-  I proposed an anisotropic and size-dependent failure criterion for describing the shale strength, collected previous publications on the size effect of rock strength for verifying the failure criterion, and developed a bonded-particle model for modeling the anisotropy and size effect of shale. I am conducting the uniaxial, biaxial, and triaxial compression test of shale at different sizes and different orientations. 
+  I proposed an anisotropic and size-dependent failure criterion for describing the shale strength. I developed a bonded-particle model for modeling the anisotropy and size effect of shale. I am conducting the uniaxial, biaxial, and triaxial compression test of shale at different sizes and different orientations. 
   
 
 
@@ -69,4 +69,4 @@ Awards
 * WAAIME Scholarship, SME, 2020
 * WAAIME Scholarship, SME, 2021
 * Mining Engineering Faculty Award, West Virginia University, 2021
-* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022 [Picture](http://cloud-yunzhao.github.io/images/Award1.png)
+* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Award1.png)
