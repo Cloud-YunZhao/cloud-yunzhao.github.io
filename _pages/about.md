@@ -12,9 +12,9 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Education
 ======
-* B.S. in Minining Enginerring, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Minining Enginerring, Wuhan University of Technology, 2016
+* M.S. in Minining Enginerring, Wuhan University of Technology, 2019
+* Ph.D in Minining Enginerring, West Virginia University, 2022 (expected)
 
 Work experience
 ======
