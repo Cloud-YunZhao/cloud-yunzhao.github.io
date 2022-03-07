@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at West Virginia University. My research focuses on the area of ground control and rock mechanics. I am currently working with Dr. Brijes Mishra to investigate the size effect on the strength of shale under compressive stress conditions. This work will help improve the understanding of roof failure in underground coal mines. 
+I am a PhD candidate at West Virginia University. My research focuses on the area of ground control and rock mechanics. I am currently working with [Prof. Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml) to investigate the size effect on the strength of shale under compressive stress conditions. This work will help improve the understanding of roof failure in underground coal mines. 
 
 Education
 ======
