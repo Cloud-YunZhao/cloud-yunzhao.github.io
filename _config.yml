@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yun Zhao's Homepage"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Yun Zhao"
 description              : &description "personal description"
