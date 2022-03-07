@@ -61,15 +61,15 @@ Presentation and poster
 
 * **Size effect on the strength of shale under different compressive stress conditions** 
   Yun Zhao and Brijes Mishra  
-  SME/PCMIA Student Competition Presentation, 2021 | [Picture](http://cloud-yunzhao.github.io/images/PCMIA2021.jpg)
+  SME/PCMIA Student Competition Presentation, 2021 | [照片](http://cloud-yunzhao.github.io/images/PCMIA2021.jpg)
 
 * **Size-dependent Mohr-Coulomb failure criterion**  
   Yun Zhao and Brijes Mishra  
-  SME Graduate Poster Contest, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Poster1.png)
+  SME Graduate Poster Contest, 2022 | [照片](http://cloud-yunzhao.github.io/images/Poster1.png)
  
 * **Numerical investigation of the size effect on shale strength under uniaxial stress state**  
   Yun Zhao, Brijes Mishra and Qingwen Shi  
-  SME Annual Conference, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Presentation1.png)
+  SME Annual Conference, 2022 | [照片](http://cloud-yunzhao.github.io/images/Presentation1.png)
   
 Awards
 ======
