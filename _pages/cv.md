@@ -32,17 +32,17 @@ Work experience
 
 Publications
 ======
-* **Theoretical study of damage characteristics on ore pass wall based on the erosion-wearing theory**  
-  Yun Zhao, Haiwang Ye, Tao Lei, Chao Wang, Qizhou Wang, and Mei Long  
-  Chinese Journal of Rock Mechanics and Engineering, 2017 | [Paper](http://cloud-yunzhao.github.io/files/Paper1.pdf)
+* **基于冲蚀磨损理论的溜井井壁破损特性理论研究**  
+  赵昀, 叶海旺, 雷涛, 王超, 王其洲, 龙梅  
+  岩石力学与工程学报, 2017 | [论文](http://cloud-yunzhao.github.io/files/Paper1.pdf)
  
-* **Theoretical Calculation of Initial Collision Position on Shaft Wall of an Adit in Open-pit Mine**  
-  Yun Zhao, Haiwang Ye, Tao Lei, Chao Wang, Qizhou Wang, and Mei Long 
-  Metal Mine, 2017 | [Paper](http://cloud-yunzhao.github.io/files/Paper2.pdf)
+* **某露天矿平硐溜井井壁初始碰撞位置理论计算**  
+  赵昀, 叶海旺, 雷涛, 李宁, 王其洲, 龙梅  
+  金属矿山, 2017 | [论文](http://cloud-yunzhao.github.io/files/Paper2.pdf)
  
-* **Numerical Simulation on the Motion of Ore and the Damage of Shaft Wall in Chute System of an Adit**  
-  Haiwang Ye, Yun Zhao, Jian Ouyang, Tao Lei, Chao Wang, Mei Long  
-  Metal Mine, 2017 | [Paper](http://cloud-yunzhao.github.io/files/Paper3.pdf)
+* **平硐溜井系统矿石运动状态及井壁破坏数值模拟**  
+  叶海旺, 赵昀, 欧阳枧, 雷涛, 王超, 龙梅   
+  金属矿山, 2017 | [论文](http://cloud-yunzhao.github.io/files/Paper3.pdf)
   
 Presentation and poster
 ======
@@ -64,10 +64,10 @@ Presentation and poster
   
 Awards
 ======
-* Outstanding Graduate Student Scholarship, Wuhan University of Technology, 2016
-* National Graduate Student Scholarship, 2017
-* National Graduate Student Scholarship, 2018
-* WAAIME Scholarship, SME, 2020
-* WAAIME Scholarship, SME, 2021
-* Mining Engineering Faculty Award, West Virginia University, 2021
-* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022 [Picture](http://cloud-yunzhao.github.io/images/Award1.png)
+* 硕士研究生卓越奖学金, 武汉理工大学, 2016
+* 硕士研究生国家奖学金, 教育部, 2017
+* 硕士研究生国家奖学金, 教育部,2018
+* WAAIME奖学金, 美国采矿协会, 2020
+* WAAIME奖学金, 美国采矿协会, 2021
+* Mining Engineering Faculty Award, 西弗吉尼亚大学, 2021
+* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, 美国采矿协会, 2022 [照片](http://cloud-yunzhao.github.io/images/Award1.png)
