@@ -13,10 +13,12 @@ I am a PhD candidate at West Virginia University. My current research is the ani
 Education
 ======
 * **B.S. in Minining Enginerring, Wuhan University of Technology, 2016**  
-  GPA: 87.4/100, Advisor: [Prof.Haiwang Ye] (http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)  
+  GPA: 87.4/100, Advisor: [Prof.Haiwang Ye](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)  
+
 * **M.S. in Minining Enginerring, Wuhan University of Technology, 2019**  
-  GPA: 87.5/100, Advisor: [Prof.Haiwang Ye] (http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)  
-* **Ph.D in Minining Enginerring, West Virginia University, August 2022 (expected)**
+  GPA: 87.5/100, Advisor: [Prof.Haiwang Ye](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)  
+
+* **Ph.D in Minining Enginerring, West Virginia University, August 2022 (expected)**  
   GPA: 3.89/4.0, Advisor: [Prof. Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml)
 
 Work experience
