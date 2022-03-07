@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a PhD candidate at West Virginia University. My research focuses on the area of ground control and rock mechanics. I am currently working with [Prof. Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml) to investigate the size effect on the strength of shale under compressive stress conditions. This work will help improve the understanding of roof failure in underground coal mines. 
+ 
+I am currently a PhD candidate at West Virginia University, working with [Prof. Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml) to investigate the size effect on the strength of shale under compressive stress conditions. This work will help improve the understanding of roof failure in underground coal mines. I have been studying and researching in mining engineering for 9 years. My education starts from open-pit metal mines to underground coal mines. The research includes slope, ore pass, and mine roof.
 
 Education
 ======
@@ -27,14 +27,7 @@ Work experience
 * **Anasotropy and size effect of shale strength**  
   I proposed an anisotropic and size-dependent failure criterion for describing the shale strength, collected previous publications on the size effect of rock strength for verifying the failure criterion, and developed a bonded-particle model for modeling the anisotropy and size effect of shale. I am conducting the uniaxial, biaxial, and triaxial compression test of shale at different sizes and different orientations. 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -48,13 +41,13 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Service and leadership
+Award
 ======
 * Currently signed in to 43 different slack teams
 
