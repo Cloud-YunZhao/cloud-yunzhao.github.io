@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Yun Zhao"
+name                     : &name "Yun Zhao/赵昀"
 description              : &description "personal description"
 url                      : https://cloud-yunzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
