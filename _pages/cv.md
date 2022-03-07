@@ -13,9 +13,14 @@ I am currently a PhD candidate at West Virginia University, working with [Prof. 
 
 Education
 ======
-* 本科, 矿业工程, 武汉理工大学, 2016
-* 硕士, 矿业工程, 武汉理工大学, 2019
-* 博士, 矿业工程, 西弗吉尼亚大学, 2022
+* **本科, 矿业工程, 武汉理工大学, 2016**  
+  GPA: 87.4/100, 导师: [叶海旺](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)  
+
+* **硕士, 矿业工程, 武汉理工大学, 2019**  
+  GPA: 87.4/100, 导师: [叶海旺](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)  
+  
+* **博士, 矿业工程, 西弗吉尼亚大学, 2022**  
+  GPA: 87.4/100, 导师: [Brijes Mishra](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml) 
 
 Work experience
 ======
