@@ -45,8 +45,13 @@ Publications
   Metal Mine, 2017 | [Paper](http://cloud-yunzhao.github.io/files/Paper2.pdf)
  
 * **Numerical Simulation on the Motion of Ore and the Damage of Shaft Wall in Chute System of an Adit**  
-  Haiwang Ye, Yun Zhao, Jian Ouyang, Tao Lei, Chao Wang, Mei Long  
+  Haiwang Ye, Yun Zhao, Jian Ouyang, Tao Lei, Chao Wang, and Mei Long  
   Metal Mine, 2017 | [Paper](http://cloud-yunzhao.github.io/files/Paper3.pdf)
+
+* **Failure Modes in Brazilian Splitting Test on Limestone with Weak Structural Planes**  
+  Zixuan Li, Tao Lei, Haiwang Ye, Yun Zhao, Qizhou Wang, and Lifeng Li  
+  Mining and Metallurgical Engineering, 2020 | [Paper](http://cloud-yunzhao.github.io/files/Paper3.pdf)
+
   
 Presentation and poster
 ======
