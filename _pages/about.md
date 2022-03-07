@@ -73,7 +73,7 @@ Presentation and poster
  
 * **Numerical investigation of the size effect on shale strength under uniaxial stress state**  
   Yun Zhao, Brijes Mishra and Qingwen Shi  
-  SME Annual Conference, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Presentation1.png) | [Paper](http://cloud-yunzhao.github.io/files/ConferencePaper1.pdf)
+  SME Annual Conference, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Presentation1.png) | [Paper](http://cloud-yunzhao.github.io/files/Conferencepaper1.pdf)
   
 Awards
 ======
