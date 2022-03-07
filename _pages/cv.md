@@ -15,7 +15,7 @@ Education
 ======
 * 本科, 矿业工程, 武汉理工大学, 2016
 * 硕士, 矿业工程, 武汉理工大学, 2019
-* Ph.D in Minining Enginerring, West Virginia University, August 2022 (expected)
+* 博士, 矿业工程, 西弗吉尼亚大学, 2022
 
 Work experience
 ======
