@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
  
-I am currently a PhD candidate at West Virginia University, working with [Prof. Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml) to investigate the size effect on the strength of shale under compressive stress conditions. This work will help improve the understanding of roof failure in underground coal mines. I have been studying and researching in mining engineering for 10 years. My education starts from open-pit metal mines to underground coal mines. The research includes slope, ore pass, and mine roof.
+我是西弗吉尼亚大学采矿系的博士研究生，主要从事岩石力学和岩层控制等相关研究。我目前的研究课题是页岩抗压强度的各项异性和尺寸效应，研究结果有助于阿帕拉契亚地区煤矿顶板破坏的防治。我本科和硕士毕业于武汉理工大学，这期间参与露天矿的开采设计，边坡稳定性分析和平硐溜井系统的优化。
 
 教育背景
 ======
