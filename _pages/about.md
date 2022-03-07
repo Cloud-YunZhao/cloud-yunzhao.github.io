@@ -43,7 +43,13 @@ Talks
   
 Award
 ======
-* Currently signed in to 43 different slack teams
+* Outstanding Graduate Student Scholarship, Wuhan University of Technology, 2016
+* National Graduate Student Scholarship, 2017
+* National Graduate Student Scholarship, 2018
+* WAAIME Scholarship, SME, 2020
+* WAAIME Scholarship, SME, 2021
+* Mining Engineering Faculty Award, West Virginia University, 2021
+* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022
 
 
 For more info
