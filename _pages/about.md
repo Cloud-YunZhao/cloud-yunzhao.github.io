@@ -14,7 +14,7 @@ Education
 ======
 * B.S. in Minining Enginerring, Wuhan University of Technology, 2016
 * M.S. in Minining Enginerring, Wuhan University of Technology, 2019
-* Ph.D in Minining Enginerring, West Virginia University, 2022 (expected)
+* Ph.D in Minining Enginerring, West Virginia University, August 2022 (expected)
 
 Work experience
 ======
