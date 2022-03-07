@@ -50,6 +50,10 @@ redirect_from:
 * **含软弱结构面石灰岩巴西劈裂破坏模式研究**  
   李子旋, 雷涛, 叶海旺, 赵昀, 王其洲, 李立峰  
   矿冶工程, 2020
+
+* **DEM Analysis of the Effect of Lamination Properties on the Stability of an Underground Coal Mine Entry with Laminated Shale Roof**  
+  Qingwen Shi, Brijes Mishra, Yun Zhao  
+  Mining, Metallurgy & Exploration, 2022 | [Paper](http://cloud-yunzhao.github.io/files/Paper5.pdf)
   
 学术报告
 ======
