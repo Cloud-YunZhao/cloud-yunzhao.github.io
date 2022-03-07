@@ -61,4 +61,4 @@ Awards
 * WAAIME Scholarship, SME, 2020
 * WAAIME Scholarship, SME, 2021
 * Mining Engineering Faculty Award, West Virginia University, 2021
-* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Award1.png)
+* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022 [Picture](http://cloud-yunzhao.github.io/images/Award1.png)
