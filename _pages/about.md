@@ -32,22 +32,26 @@ Work experience
 Publications
 ======
 * **Theoretical study of damage characteristics on ore pass wall based on the erosion-wearing theory**  
-  Zhao Yun, Ye Haiwang, Lei Tao, Wang Chao, Wang Qizhou, Long Mei  
+  Yun Zhao, Haiwang Ye, Tao Lei, Chao Wang, Qizhou Wang, and Mei Long  
   Chinese Journal of Rock Mechanics and Engineering, 2017 | [paper](http://cloud-yunzhao.github.io/files/Paper1.pdf)
  
 * **Theoretical Calculation of Initial Collision Position on Shaft Wall of an Adit in Open-pit Mine**  
-  Zhao Yun, Ye Haiwang, Lei Tao, Wang Chao, Wang Qizhou, Long Mei  
+  Yun Zhao, Haiwang Ye, Tao Lei, Chao Wang, Qizhou Wang, and Mei Long 
   Metal Mine, 2017 | [paper](http://cloud-yunzhao.github.io/files/Paper2.pdf)
  
 * **Numerical Simulation on the Motion of Ore and the Damage of Shaft Wall in Chute System of an Adit**  
-  Ye Haiwang, Zhao Yun, Ouyang Jian, Lei Tao, Wang Chao, Long Mei  
+  Haiwang Ye, Yun Zhao, Jian Ouyang, Tao Lei, Chao Wang, Mei Long  
   Metal Mine, 2017 | [paper](http://cloud-yunzhao.github.io/files/Paper3.pdf)
   
 Presentation and poster
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* **Size-dependent Mohr-Coulomb failure criterion**  
+  Yun Zhao and Brijes Mishra  
+  SME Graduate Poster Contest, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Poster1.png)
+ 
+* **Numerical investigation of the size effect on shale strength under uniaxial stress state**  
+  Yun Zhao, Brijes Mishra and Qingwen Shi  
+  SME Annual Conference, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Presentation1.png)
   
 Awards
 ======
@@ -57,4 +61,4 @@ Awards
 * WAAIME Scholarship, SME, 2020
 * WAAIME Scholarship, SME, 2021
 * Mining Engineering Faculty Award, West Virginia University, 2021
-* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022
+* Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, SME, 2022 | [Picture](http://cloud-yunzhao.github.io/images/Award1.png)
