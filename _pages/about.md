@@ -50,7 +50,7 @@ Publications
 
 * **Failure Modes in Brazilian Splitting Test on Limestone with Weak Structural Planes**  
   Zixuan Li, Tao Lei, Haiwang Ye, Yun Zhao, Qizhou Wang, and Lifeng Li  
-  Mining and Metallurgical Engineering, 2020 | [Paper]()
+  Mining and Metallurgical Engineering, 2020 | [Paper](http://cloud-yunzhao.github.io/files/Paper4.pdf)
 
 * **DEM Analysis of the Effect of Lamination Properties on the Stability of an Underground Coal Mine Entry with Laminated Shale Roof**  
   Qingwen Shi, Brijes Mishra, Yun Zhao  
