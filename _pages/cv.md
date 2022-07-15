@@ -56,7 +56,7 @@ redirect_from:
   Mining, Metallurgy & Exploration, 2022 | [论文](http://cloud-yunzhao.github.io/files/Paper5.pdf)
   
 * **A Size-Dependent Bonded-Particle Model for Transversely Isotropic Rock and its Application in Studying the Size Effect of Shale**  
-  Yun Zhao, Brijes Mishra, Qingwen Shi, and Gaobo Zhao 
+  Yun Zhao, Brijes Mishra, Qingwen Shi, and Gaobo Zhao  
   Geotechnical and Geological Engineering, 2022
   
 学术报告
