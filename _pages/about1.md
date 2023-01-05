@@ -1,12 +1,12 @@
----
-permalink: /
-title: 
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+#---
+#permalink: /
+#title: 
+#excerpt: "About me"
+#author_profile: true
+#redirect_from: 
+#  - /about/
+#  - /about.html
+#---
  
 I am a PhD candidate at West Virginia University. My current research is the anisotropy and size effect of the strength of shale under compressive stress conditions. This work will help improve the understanding of roof failure in underground coal mines. I have been studying and researching in mining engineering for 10 years. My education starts from open-pit metal mines to underground coal mines. The research includes slope, ore pass, and mine roof.
 
