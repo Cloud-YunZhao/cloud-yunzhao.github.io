@@ -15,11 +15,11 @@ main:
  # - title: "Blog Posts"
   #  url: /year-archive/
 
-  - title: "English Version"
-    url: /about/
+#  - title: "English Version"
+#    url: /about/
  
-  - title: "中文版"
-    url: /cv/
+#  - title: "中文版"
+#    url: /cv/
  # - title: "CV"
  #   url: /cv/
     
