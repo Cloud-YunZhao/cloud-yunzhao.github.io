@@ -50,22 +50,23 @@ redirect_from:
 * **含软弱结构面石灰岩巴西劈裂破坏模式研究**  
   李子旋, 雷涛, 叶海旺, 赵昀, 王其洲, 李立峰  
   矿冶工程, 2020 | [论文](http://cloud-yunzhao.github.io/files/Paper4.pdf)
-  
-* **Numerical Investigation of the Size Effect on Shale Strength under Uniaxial Stress State**  
-  Yun Zhao, Brijes Mishra, Qingwen Shi, and Gaobo Zhao  
-  SME Annual Meeting, 2022
-  
-* **A Size-Dependent Bonded-Particle Model for Transversely Isotropic Rock and its Application in Studying the Size Effect of Shale**  
-  Yun Zhao, Brijes Mishra, Qingwen Shi, and Gaobo Zhao  
-  Geotechnical and Geological Engineering, 2022
- 
-* **Couple Effect of Joint Pore Pressure and Joint Orientations on Rock Strength Based on Numerical Modeling**  
-  Gaobo Zhao, Wenbin Guo, Lingyun Kong, Yun Zhao, and Qingwen Shi  
-  Geotechnical and Geological Engineering, 2022
- 
+
 * **DEM Analysis of the Effect of Lamination Properties on the Stability of an Underground Coal Mine Entry with Laminated Shale Roof**  
   Qingwen Shi, Brijes Mishra, Yun Zhao  
   Mining, Metallurgy & Exploration, 2022 | [论文](http://cloud-yunzhao.github.io/files/Paper5.pdf)
+
+* **Numerical Investigation of the Size Effect on Shale Strength under Uniaxial Stress State**  
+  Yun Zhao, Brijes Mishra, Qingwen Shi, and Gaobo Zhao  
+  SME Annual Meeting, 2022 | [论文](http://cloud-yunzhao.github.io/files/Paper6.pdf)
+  
+* **A Size-Dependent Bonded-Particle Model for Transversely Isotropic Rock and its Application in Studying the Size Effect of Shale**  
+  Yun Zhao, Brijes Mishra, Qingwen Shi, and Gaobo Zhao  
+  Geotechnical and Geological Engineering, 2022 | [论文](http://cloud-yunzhao.github.io/files/Conferencepaper1.pdf)
+ 
+* **Couple Effect of Joint Pore Pressure and Joint Orientations on Rock Strength Based on Numerical Modeling**  
+  Gaobo Zhao, Wenbin Guo, Lingyun Kong, Yun Zhao, and Qingwen Shi  
+  Geotechnical and Geological Engineering, 2022 | [论文](http://cloud-yunzhao.github.io/files/Paper7.pdf)
+ 
   
 学术报告
 ======
