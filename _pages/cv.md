@@ -57,11 +57,11 @@ redirect_from:
 
 * **Numerical Investigation of the Size Effect on Shale Strength under Uniaxial Stress State**  
   ***Yun Zhao***, Brijes Mishra, Qingwen Shi, and Gaobo Zhao  
-  SME Annual Meeting, 2022 | [论文](http://cloud-yunzhao.github.io/files/Paper6.pdf)
+  SME Annual Meeting, 2022 | [论文](http://cloud-yunzhao.github.io/files/Conferencepaper1.pdf)
   
 * **A Size-Dependent Bonded-Particle Model for Transversely Isotropic Rock and its Application in Studying the Size Effect of Shale**  
   ***Yun Zhao***, Brijes Mishra, Qingwen Shi, and Gaobo Zhao  
-  Geotechnical and Geological Engineering, 2022 | [论文](http://cloud-yunzhao.github.io/files/Conferencepaper1.pdf)
+  Geotechnical and Geological Engineering, 2022 | [论文](http://cloud-yunzhao.github.io/files/Paper6.pdf)
  
 * **Couple Effect of Joint Pore Pressure and Joint Orientations on Rock Strength Based on Numerical Modeling**  
   Gaobo Zhao, Wenbin Guo, Lingyun Kong, ***Yun Zhao***, and Qingwen Shi  
