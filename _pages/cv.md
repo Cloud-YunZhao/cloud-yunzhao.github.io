@@ -75,15 +75,15 @@ redirect_from:
 
 * **多轴应力状态下页岩强度的尺寸效应数值模拟研究**  
   赵昀, Brijes Mishra  
-  匹兹堡煤炭协会-学生报告, 2021 | [照片](http://cloud-yunzhao.github.io/images/PCMIA2021.jpg)
+  匹兹堡煤炭协会-学生报告, 2021 
 
 * **具有尺寸效应的摩尔库伦强度准则**  
   赵昀, Brijes Mishra  
-  美国矿业协会-研究生海报展, 2022 | [照片](http://cloud-yunzhao.github.io/images/Poster1.png)
+  美国矿业协会-研究生海报展, 2022
  
 * **单轴应力状态下页岩强度的尺寸效应数值模拟研究**  
   赵昀, Brijes Mishra  
-  美国矿业协会年会, 2022 | [照片](http://cloud-yunzhao.github.io/images/Presentation1.png)
+  美国矿业协会年会, 2022
   
 获奖情况
 ======
@@ -99,4 +99,4 @@ redirect_from:
 
 * **Mining Engineering Faculty Award, 西弗吉尼亚大学, 2021**
 
-* **Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, 美国矿业协会, 2022** [照片](http://cloud-yunzhao.github.io/images/Award1.png)
+* **Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, 美国矿业协会, 2022**
