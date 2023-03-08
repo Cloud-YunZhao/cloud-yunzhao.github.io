@@ -58,6 +58,10 @@ redirect_from:
 * **A Size-Dependent Bonded-Particle Model for Transversely Isotropic Rock and its Application in Studying the Size Effect of Shale**  
   Yun Zhao, Brijes Mishra, Qingwen Shi, and Gaobo Zhao  
   Geotechnical and Geological Engineering, 2022
+ 
+ * **Couple Effect of Joint Pore Pressure and Joint Orientations on Rock Strength Based on Numerical Modeling**  
+  Gaobo Zhao, Wenbin Guo, Lingyun Kong, Yun Zhao, and Qingwen Shi  
+  Geotechnical and Geological Engineering, 2022
   
 学术报告
 ======
