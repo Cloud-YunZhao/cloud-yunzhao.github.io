@@ -8,10 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
- 
-我是兴发集团矿产资源部的采矿工程师。  
 
-教育背景
+个人经历
 ======
 * **本科, 矿业工程, 武汉理工大学, 2012-2016**  
   GPA: 87.4/100, 导师: [叶海旺](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)  
@@ -21,6 +19,8 @@ redirect_from:
   
 * **博士, 矿业工程, 西弗吉尼亚大学, 2019-2022**  
   GPA: 3.89/4.0, 导师: [Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml)
+  
+* **采矿工程师, 兴发集团矿产资源部, 2022-**  
 
 行业经验
 ======
