@@ -11,13 +11,13 @@ redirect_from:
 
 个人经历
 ======
-* **本科, 矿业工程, 武汉理工大学, 2012-2016**  
+* **本科, 采矿工程, 武汉理工大学, 2012-2016**  
   GPA: 87.4/100, 导师: [叶海旺](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)  
 
 * **硕士, 矿业工程, 武汉理工大学, 2016-2019**  
   GPA: 87.5/100, 导师: [叶海旺](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)  
   
-* **博士, 矿业工程, 西弗吉尼亚大学, 2019-2022**  
+* **博士, 采矿工程, 西弗吉尼亚大学, 2019-2022**  
   GPA: 3.89/4.0, 导师: [Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml)
   
 * **采矿工程师, 兴发集团矿产资源部, 2022-**  
@@ -67,7 +67,11 @@ redirect_from:
   Gaobo Zhao, Wenbin Guo, Lingyun Kong, *Yun Zhao*, and Qingwen Shi  
   Geotechnical and Geological Engineering, 2022 | [论文](http://cloud-yunzhao.github.io/files/Paper7.pdf)
  
-  
+专利申请
+======
+* **垂直深孔两次放矿同步充填阶段采矿法（发明专利，201611059708X）**
+  雷涛，*赵昀*，叶海旺，代光俊
+
 学术报告
 ======
 * **双轴应力状态下页岩强度的尺寸效应数值模拟研究**  
