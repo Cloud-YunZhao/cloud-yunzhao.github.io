@@ -66,6 +66,10 @@ redirect_from:
 * **Couple Effect of Joint Pore Pressure and Joint Orientations on Rock Strength Based on Numerical Modeling**  
   Gaobo Zhao, Wenbin Guo, Lingyun Kong, *Yun Zhao*, and Qingwen Shi  
   Geotechnical and Geological Engineering, 2022 | [论文](http://cloud-yunzhao.github.io/files/Paper7.pdf)
+
+* **Size-dependent Mohr–Coulomb failure criterion**  
+  *Yun Zhao*, Brijes Mishra, Qingwen Shi, and Gaobo Zhao  
+  Bulletin of Engineering Geology and the Environment, 2023 | [论文](http://cloud-yunzhao.github.io/files/Paper8.pdf)
  
 专利申请
 ======
