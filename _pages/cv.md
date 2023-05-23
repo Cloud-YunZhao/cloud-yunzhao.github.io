@@ -94,6 +94,10 @@ redirect_from:
   赵昀, Brijes Mishra  
   美国矿业协会年会, 2022
   
+* **Size effect and Anisotropy on the strength of shale under compressive stress conditions**  
+  Brijes Mishra, 赵昀  
+  数值计算在地球科学中的应用学术论坛, 2023
+  
 获奖情况
 ======
 * **全国高等学校采矿专业学生实践作品大赛二等奖, 教育部高等学校矿业类教学指导委员会, 2015**
