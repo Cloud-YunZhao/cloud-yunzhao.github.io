@@ -35,6 +35,10 @@ redirect_from:
   
 论文发表
 ======
+* **Correlations between mineral composition and mechanical properties of granite using digital image processing and discrete element method**  
+  Changdi He, Brijes Mishra, Qingwen Shi, *Yun Zhao*, Dajun Lin, Xiao Wang 
+  International Journal of Mining Science and Technology, 2023 | [论文](http://cloud-yunzhao.github.io/files/Paper9.pdf)
+
 * **Size-dependent Mohr–Coulomb failure criterion**  
   *Yun Zhao*, Brijes Mishra, Qingwen Shi, and Gaobo Zhao  
   Bulletin of Engineering Geology and the Environment, 2023 | [论文](http://cloud-yunzhao.github.io/files/Paper8.pdf)
