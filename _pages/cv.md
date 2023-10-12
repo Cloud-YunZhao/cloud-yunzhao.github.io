@@ -14,7 +14,7 @@ redirect_from:
 * **采矿工程师, 兴发集团矿产资源部, 2022-**
 
 * **博士, 采矿工程, 西弗吉尼亚大学, 2019-2022**  
-  GPA: 3.89/4.0, 导师: [Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml)
+  GPA: 3.89/4.0, 导师: [Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml) 
   学位论文: [Size effect and anisotropy on the strength of shale under compressive stress conditions](https://researchrepository.wvu.edu/etd/11633/)
   
 * **硕士, 矿业工程, 武汉理工大学, 2016-2019**  
