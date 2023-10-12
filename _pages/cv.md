@@ -11,17 +11,17 @@ redirect_from:
 
 个人经历
 ======
-* **采矿工程师, 兴发集团矿产资源部, 2022-**
+* **采矿工程师, 兴发集团矿产资源部, 2022.11-**
 
-* **博士, 采矿工程, 西弗吉尼亚大学, 2019-2022**  
+* **博士, 采矿工程, 西弗吉尼亚大学, 2019.08-2022.08**  
   GPA: 3.89/4.0, 导师: [Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml)  
   学位论文: [Size effect and anisotropy on the strength of shale under compressive stress conditions](https://researchrepository.wvu.edu/etd/11633/)
   
-* **硕士, 矿业工程, 武汉理工大学, 2016-2019**  
+* **硕士, 矿业工程, 武汉理工大学, 2016.09-2019.06**  
   GPA: 87.5/100, 导师: [叶海旺](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)
-  学位论文：
+  学位论文：[露天矿平硐溜井系统井壁冲击破损特性研究](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C475KOm_zrgu4lQARvep2SAkHr3ADhkADnVu66WViDP_3Cujstbc3SXK9yeHyCb6YXQvZa4HJEovU9GWu_y4Q6Sx&uniplatform=NZKPT)
   
-* **本科, 采矿工程, 武汉理工大学, 2012-2016**  
+* **本科, 采矿工程, 武汉理工大学, 2012.06-2016.06**  
   GPA: 87.4/100, 导师: [叶海旺](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)
   学位论文： 
 
