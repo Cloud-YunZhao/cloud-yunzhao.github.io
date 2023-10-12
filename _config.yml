@@ -83,15 +83,13 @@ author:
   name             : "赵昀"
   avatar           : "bio-photo.jpeg"
   bio              : "If it can’t be grown, it must be mined!" 
-  电话             : "18696147379"
-  邮箱             : "82359401@qq.com" 
   location         : 
   employer         : "湖北兴发化工集团股份有限公司"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : 
+  email            : "82359401@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "82359401@qq.com" 
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -114,7 +112,7 @@ author:
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             : "18696147379"
+  xing             : 
   youtube          :
   wikipedia        :
 
