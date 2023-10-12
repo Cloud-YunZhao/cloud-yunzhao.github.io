@@ -12,18 +12,19 @@ redirect_from:
 个人经历
 ======
 * **采矿工程师, 兴发集团矿产资源部, 2022.11-**
+  工作内容：（1）在采选矿研发平台担任四级研究员，从事矿山科研工作。（2）加入资源争取小组，在全国范围寻找矿产资源。
 
 * **博士, 采矿工程, 西弗吉尼亚大学, 2019.08-2022.08**  
   GPA: 3.89/4.0, 导师: [Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml)  
   学位论文: [Size effect and anisotropy on the strength of shale under compressive stress conditions](https://researchrepository.wvu.edu/etd/11633/)
   
 * **硕士, 矿业工程, 武汉理工大学, 2016.09-2019.06**  
-  GPA: 87.5/100, 导师: [叶海旺](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)
+  GPA: 87.5/100, 导师: [叶海旺](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)  
   学位论文：[露天矿平硐溜井系统井壁冲击破损特性研究](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C475KOm_zrgu4lQARvep2SAkHr3ADhkADnVu66WViDP_3Cujstbc3SXK9yeHyCb6YXQvZa4HJEovU9GWu_y4Q6Sx&uniplatform=NZKPT)
   
 * **本科, 采矿工程, 武汉理工大学, 2012.06-2016.06**  
-  GPA: 87.4/100, 导师: [叶海旺](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)
-  学位论文： 
+  GPA: 87.4/100, 导师: [叶海旺](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)  
+  学位论文：含软弱夹层的露天矿边坡稳定性研究
 
 行业经验
 ======
@@ -38,6 +39,10 @@ redirect_from:
   
 论文发表
 ======
+* **Size-dependent and Anisotropic Coulomb failure criterion**  
+  *Yun Zhao*, Brijes Mishra, Qingwen Shi
+  ISRM Congress, 2023
+  
 * **Correlations between mineral composition and mechanical properties of granite using digital image processing and discrete element method**  
   Changdi He, Brijes Mishra, Qingwen Shi, *Yun Zhao*, Dajun Lin, Xiao Wang  
   International Journal of Mining Science and Technology, 2023 | [论文](http://cloud-yunzhao.github.io/files/Paper9.pdf)
@@ -85,44 +90,45 @@ redirect_from:
   
 学术报告
 ======
-* **双轴应力状态下页岩强度的尺寸效应数值模拟研究**  
-  赵昀, Brijes Mishra  
-  匹兹堡煤炭协会-学生报告, 2020
-
-* **多轴应力状态下页岩强度的尺寸效应数值模拟研究**  
-  赵昀, Brijes Mishra  
-  匹兹堡煤炭协会-学生报告, 2021 
-
-* **具有尺寸效应的摩尔库伦强度准则**  
-  赵昀, Brijes Mishra  
-  美国矿业协会-研究生海报展, 2022
- 
-* **单轴应力状态下页岩强度的尺寸效应数值模拟研究**  
-  赵昀, Brijes Mishra  
-  美国矿业协会年会, 2022
-  
 * **Size effect and Anisotropy on the strength of shale under compressive stress conditions**  
   Brijes Mishra, 赵昀  
   数值计算在地球科学中的应用学术论坛, 2023
   
+* **单轴应力状态下页岩强度的尺寸效应数值模拟研究**  
+  赵昀, Brijes Mishra  
+  美国矿业协会年会, 2022
+  
+* **具有尺寸效应的摩尔库伦强度准则**  
+  赵昀, Brijes Mishra  
+  美国矿业协会-研究生海报展, 2022
+  
+* **多轴应力状态下页岩强度的尺寸效应数值模拟研究**  
+  赵昀, Brijes Mishra  
+  匹兹堡煤炭协会-学生报告, 2021 
+     
+* **双轴应力状态下页岩强度的尺寸效应数值模拟研究**  
+  赵昀, Brijes Mishra  
+  匹兹堡煤炭协会-学生报告, 2020
+
+
 获奖情况
 ======
-* **全国高等学校采矿专业学生实践作品大赛二等奖, 教育部高等学校矿业类教学指导委员会, 2015**
-
-* **硕士研究生卓越奖学金, 武汉理工大学, 2016**
-
-* **湖北省优秀学士论文, 湖北省教育厅, 2017**
-
-* **校三好研究生, 武汉理工大学, 2017**
-
-* **硕士研究生国家奖学金, 教育部, 2017**
-
-* **硕士研究生国家奖学金, 教育部,2018**
-
-* **WAAIME奖学金, 美国矿业协会, 2020**
-
-* **WAAIME奖学金, 美国矿业协会, 2021**
+* **Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, 美国矿业协会, 2022**
 
 * **Mining Engineering Faculty Award, 西弗吉尼亚大学, 2021**
 
-* **Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, 美国矿业协会, 2022**
+* **WAAIME奖学金, 美国矿业协会, 2021**
+
+* **WAAIME奖学金, 美国矿业协会, 2020**
+
+* **硕士研究生国家奖学金, 教育部,2018**
+
+* **硕士研究生国家奖学金, 教育部, 2017**
+
+* **校三好研究生, 武汉理工大学, 2017**
+
+* **湖北省优秀学士论文, 湖北省教育厅, 2017**
+
+* **硕士研究生卓越奖学金, 武汉理工大学, 2016**
+
+* **全国高等学校采矿专业学生实践作品大赛二等奖, 教育部高等学校矿业类教学指导委员会, 2015**
