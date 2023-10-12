@@ -40,7 +40,7 @@ redirect_from:
 论文发表
 ======
 * **Size-dependent and Anisotropic Coulomb failure criterion**  
-  *Yun Zhao*, Brijes Mishra, Qingwen Shi
+  *Yun Zhao*, Brijes Mishra, Qingwen Shi  
   ISRM Congress, 2023
   
 * **Correlations between mineral composition and mechanical properties of granite using digital image processing and discrete element method**  
