@@ -83,11 +83,11 @@ author:
   name             : "赵昀"
   avatar           : "bio-photo.jpeg"
   bio              : "If it can’t be grown, it must be mined!"  
-  location         : "湖北宜昌"
-  employer         : "兴发集团"
+  location         : 
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : cloudzhao0034@gmail.com
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
