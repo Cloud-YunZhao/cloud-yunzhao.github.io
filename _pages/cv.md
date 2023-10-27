@@ -90,32 +90,32 @@ redirect_from:
 专利申请
 ======
 * **垂直深孔两次放矿同步充填阶段采矿法（发明专利，201611059708X）**  
-  雷涛，*赵昀*，叶海旺，代光俊 
+  雷涛，**赵昀**，叶海旺，代光俊 
   
 学术报告
 ======
 * **Size effect and Anisotropy on the strength of shale under compressive stress conditions**  
-  Brijes Mishra, 赵昀  
+  Brijes Mishra, **赵昀**  
   数值计算在地球科学中的应用学术论坛, 2023
   
 * **单轴应力状态下页岩强度的尺寸效应数值模拟研究**  
-  赵昀, Brijes Mishra  
+  **赵昀**, Brijes Mishra  
   美国矿业协会年会, 2022
   
 * **具有尺寸效应的摩尔库伦强度准则**  
-  赵昀, Brijes Mishra  
+  **赵昀**, Brijes Mishra  
   美国矿业协会-研究生海报展, 2022
   
 * **多轴应力状态下页岩强度的尺寸效应数值模拟研究**  
-  赵昀, Brijes Mishra  
+  **赵昀**, Brijes Mishra  
   匹兹堡煤炭协会-学生报告, 2021 
      
 * **双轴应力状态下页岩强度的尺寸效应数值模拟研究**  
-  赵昀, Brijes Mishra  
+  **赵昀**, Brijes Mishra  
   匹兹堡煤炭协会-学生报告, 2020
 
 * **露天矿平硐溜井系统井壁破损特性及防护研究**  
-  赵昀
+  **赵昀**
   研究生“十校十讲”学术论坛, 2017
 
 获奖情况
