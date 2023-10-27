@@ -41,7 +41,7 @@ redirect_from:
 ======
 * **A self-confined compression model of point load test and corresponding numerical and experimental validation**  
   Qingwen Shi, Zhenhua Ouyang, Brijes Mishra, ***Yun Zhao***  
-  Computers and Concrete, 2023 | [论文](http://cloud-yunzhao.github.io/files/Conferencepaper10.pdf)
+  Computers and Concrete, 2023 | [论文](http://cloud-yunzhao.github.io/files/Paper10.pdf)
   
 * **Size-dependent and Anisotropic Coulomb failure criterion**  
   ***Yun Zhao***, Brijes Mishra, Qingwen Shi  
