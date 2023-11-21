@@ -27,7 +27,7 @@ redirect_from:
   学位论文：[露天矿平硐溜井系统井壁冲击破损特性研究](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C475KOm_zrgu4lQARvep2SAkHr3ADhkADnVu66WViDP_3Cujstbc3SXK9yeHyCb6YXQvZa4HJEovU9GWu_y4Q6Sx&uniplatform=NZKPT)
   
 * **2012.06-2016.06，采矿工程本科, 武汉理工大学**  
-  GPA: 87.4/100, 导师: 叶海旺
+  GPA: 87.4/100, 导师: 叶海旺  
   学位论文：含软弱夹层的露天矿边坡稳定性研究
 
 行业经验
