@@ -46,6 +46,10 @@ redirect_from:
   
 论文发表
 ======
+* **Experimental study on the size effect and anisotropy of shale strength under polyaxial compressive stress conditions**  
+  ***Yun Zhao***, Brijes Mishra, Qingwen Shi  
+  New Challenges in Rock Mechanics and Rock Engineering, CRC Press, 2023 | [论文](https://www.taylorfrancis.com/books/edit/10.1201/9781003429234/new-challenges-rock-mechanics-rock-engineering-roberto-tom%C3%A1s-miguel-cano-adri%C3%A1n-riquelme-jos%C3%A9-luis-pastor-david-benavente-salvador-ord%C3%B3%C3%B1ez?refId=e52cdcac-a9bf-48bc-a9cf-17d79cc00b7f&context=ubx)
+  
 * **A self-confined compression model of point load test and corresponding numerical and experimental validation**  
   Qingwen Shi, Zhenhua Ouyang, Brijes Mishra, ***Yun Zhao***  
   Computers and Concrete, 2023 | [论文](http://cloud-yunzhao.github.io/files/Paper10.pdf)
