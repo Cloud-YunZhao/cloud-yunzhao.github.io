@@ -112,11 +112,11 @@ redirect_from:
 学术报告
 ======
 * **Experimental study on the size effect and anisotropy of shale strength under polyaxial compressive stress conditions**  
-  Brijes Mishra, ***赵昀***, Qingwen Shi  
+  Brijes Mishra, ***Yun Zhao***, Qingwen Shi  
   ISRM European Rock Mechanics Symposium, 2024
   
 * **Size effect and Anisotropy on the strength of shale under compressive stress conditions**  
-  Brijes Mishra, ***赵昀***  
+  Brijes Mishra, ***Yun Zhao***  
   数值计算在地球科学中的应用学术论坛, 2023
   
 * **单轴应力状态下页岩强度的尺寸效应数值模拟研究**  
@@ -129,11 +129,11 @@ redirect_from:
   
 * **多轴应力状态下页岩强度的尺寸效应数值模拟研究**  
   ***赵昀***, Brijes Mishra  
-  匹兹堡煤炭协会-学生报告, 2021 
+  美国匹兹堡煤炭协会-学生报告, 2021 
      
 * **双轴应力状态下页岩强度的尺寸效应数值模拟研究**  
   ***赵昀***, Brijes Mishra  
-  匹兹堡煤炭协会-学生报告, 2020
+  美国匹兹堡煤炭协会-学生报告, 2020
 
 * **露天矿平硐溜井系统井壁破损特性及防护研究**  
   ***赵昀***  
