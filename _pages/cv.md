@@ -49,6 +49,10 @@ redirect_from:
   
 论文发表
 ======
+* **变宽度孤岛工作面回采期间冲击危险性数值评估研究**  
+  王俊虎,  史庆稳,  ***赵昀***,  王翔宇  
+  中国矿业，2024 | [论文](http://dx.doi.org/10.12075/j.issn.1004-4051.20240420)
+  
 * **Experimental study on the size effect and anisotropy of shale strength under polyaxial compressive stress conditions**  
   ***Yun Zhao***, Brijes Mishra, Qingwen Shi  
   New Challenges in Rock Mechanics and Rock Engineering, CRC Press, 2024 | [论文](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003429234-223/experimental-study-size-effect-anisotropy-shale-strength-polyaxial-compressive-stress-conditions-yun-zhao-brijes-mishra-qingwen-shi)
