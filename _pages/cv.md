@@ -17,12 +17,10 @@ redirect_from:
 ====== 
 * **2022.11- ，四级研究员/采矿工程师, 兴发集团矿产资源部**  
   工作内容：（1）采选矿研发平台的科研工作（2）矿产资源调查和争取工作（3）生产矿山的技术管理工作（4）新建矿山的勘探和设计工作
-
 * **2019.08-2022.08，采矿工程博士, 西弗吉尼亚大学**  
   GPA: 3.89/4.0, 导师: [Brijes Mishra](https://faculty.utah.edu/u6040186-BRIJES_MISHRA/hm/index.hml)  
   学位论文: [Size effect and anisotropy on the strength of shale under compressive stress conditions](https://researchrepository.wvu.edu/etd/11633/)
-  
-* **2016.09-2019.06，矿业工程硕士, 武汉理工大学**  
+  * **2016.09-2019.06，矿业工程硕士, 武汉理工大学**  
   GPA: 87.5/100, 导师: [叶海旺](http://sree.whut.edu.cn/yjsjy/dsdw/202201/t20220131_868105.shtml)  
   学位论文：[露天矿平硐溜井系统井壁冲击破损特性研究](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C475KOm_zrgu4lQARvep2SAkHr3ADhkADnVu66WViDP_3Cujstbc3SXK9yeHyCb6YXQvZa4HJEovU9GWu_y4Q6Sx&uniplatform=NZKPT)
   
