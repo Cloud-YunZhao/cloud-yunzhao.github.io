@@ -54,7 +54,7 @@ redirect_from:
 ======
 * **DEM-FDM investigation of bedding plane properties’ impact on laminated roof stability**  
   Xiang Ma, Qingwen Shi, Brijes Mishra, ***Yun Zhao***, Zhenhua Ouyang, Zhengjun Guo & Jiayang Wang  
-  Scientific Reports，2025 | [论文](http://dx.doi.org/10.12075/j.issn.1004-4051.20240420)
+  Scientific Reports，2025 | [论文](https://www.nature.com/articles/s41598-025-25269-w)
   
 * **变宽度孤岛工作面回采期间冲击危险性数值评估研究**  
   王俊虎,  史庆稳,  ***赵昀***,  王翔宇  
