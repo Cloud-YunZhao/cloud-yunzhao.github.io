@@ -62,39 +62,30 @@ redirect_from:
 * **Correlations between mineral composition and mechanical properties of granite using digital image processing and discrete element method**  
   Changdi He, Brijes Mishra, Qingwen Shi, ***Yun Zhao***, Dajun Lin, Xiao Wang  
   International Journal of Mining Science and Technology, 2023 | [论文](http://cloud-yunzhao.github.io/files/Paper9.pdf)
-
 * **Size-dependent Mohr–Coulomb failure criterion**  
   ***Yun Zhao***, Brijes Mishra, Qingwen Shi, and Gaobo Zhao  
   Bulletin of Engineering Geology and the Environment, 2023 | [论文](http://cloud-yunzhao.github.io/files/Paper8.pdf)
-
 * **Couple Effect of Joint Pore Pressure and Joint Orientations on Rock Strength Based on Numerical Modeling**  
   Gaobo Zhao, Wenbin Guo, Lingyun Kong, ***Yun Zhao***, and Qingwen Shi  
   Geotechnical and Geological Engineering, 2022 | [论文](http://cloud-yunzhao.github.io/files/Paper7.pdf)
-
 * **A Size-Dependent Bonded-Particle Model for Transversely Isotropic Rock and its Application in Studying the Size Effect of Shale**  
   ***Yun Zhao***, Brijes Mishra, Qingwen Shi, and Gaobo Zhao  
   Geotechnical and Geological Engineering, 2022 | [论文](http://cloud-yunzhao.github.io/files/Paper6.pdf)
-
 * **Numerical Investigation of the Size Effect on Shale Strength under Uniaxial Stress State**  
   ***Yun Zhao***, Brijes Mishra, Qingwen Shi, and Gaobo Zhao  
   SME Annual Meeting, 2022 | [论文](http://cloud-yunzhao.github.io/files/Conferencepaper1.pdf)
-
 * **DEM Analysis of the Effect of Lamination Properties on the Stability of an Underground Coal Mine Entry with Laminated Shale Roof**  
   Qingwen Shi, Brijes Mishra, ***Yun Zhao***  
   Mining, Metallurgy & Exploration, 2022 | [论文](http://cloud-yunzhao.github.io/files/Paper5.pdf)
-  
 * **含软弱结构面石灰岩巴西劈裂破坏模式研究**  
   李子旋, 雷涛, 叶海旺, ***赵昀***, 王其洲, 李立峰  
   矿冶工程, 2020 | [论文](http://cloud-yunzhao.github.io/files/Paper4.pdf)
- 
 * **平硐溜井系统矿石运动状态及井壁破坏数值模拟**  
   叶海旺, ***赵昀***, 欧阳枧, 雷涛, 王超, 龙梅   
-  金属矿山, 2017 | [论文](http://cloud-yunzhao.github.io/files/Paper3.pdf)
- 
+  金属矿山, 2017 | [论文](http://cloud-yunzhao.github.io/files/Paper3.pdf) 
 * **某露天矿平硐溜井井壁初始碰撞位置理论计算**  
   ***赵昀***, 叶海旺, 雷涛, 李宁, 王其洲, 龙梅  
   金属矿山, 2017 | [论文](http://cloud-yunzhao.github.io/files/Paper2.pdf)
-
 * **基于冲蚀磨损理论的溜井井壁破损特性理论研究**  
   ***赵昀***, 叶海旺, 雷涛, 王超, 王其洲, 龙梅  
   岩石力学与工程学报, 2017 | [论文](http://cloud-yunzhao.github.io/files/Paper1.pdf)
@@ -103,7 +94,6 @@ redirect_from:
 ======
 * **垂直深孔两次放矿同步充填阶段采矿法（发明专利，201611059708X）**  
   雷涛，***赵昀***，叶海旺，代光俊 
-
 * **一种掘进巷道围岩冲击危险性量化预测方法及系统（发明专利，202311166251）**  
   史庆稳，欧阳振华，刘洋，杨超，易海洋，秦洪岩，李正胜，张宁博，王琼，***赵昀***，盖德成  
   
@@ -111,28 +101,22 @@ redirect_from:
 ======
 * **Experimental study on the size effect and anisotropy of shale strength under polyaxial compressive stress conditions**  
   Brijes Mishra, ***Yun Zhao***, Qingwen Shi  
-  ISRM European Rock Mechanics Symposium, 2024
-  
+  ISRM European Rock Mechanics Symposium, 2024  
 * **Size effect and Anisotropy on the strength of shale under compressive stress conditions**  
   Brijes Mishra, ***Yun Zhao***  
-  数值计算在地球科学中的应用学术论坛, 2023
-  
+  数值计算在地球科学中的应用学术论坛, 2023  
 * **单轴应力状态下页岩强度的尺寸效应数值模拟研究**  
   ***赵昀***, Brijes Mishra  
-  美国矿业协会年会, 2022
-  
+  美国矿业协会年会, 2022  
 * **具有尺寸效应的摩尔库伦强度准则**  
   ***赵昀***, Brijes Mishra  
-  美国矿业协会-研究生海报展, 2022
-  
+  美国矿业协会-研究生海报展, 2022  
 * **多轴应力状态下页岩强度的尺寸效应数值模拟研究**  
   ***赵昀***, Brijes Mishra  
-  美国匹兹堡煤炭协会-学生报告, 2021 
-     
+  美国匹兹堡煤炭协会-学生报告, 2021      
 * **双轴应力状态下页岩强度的尺寸效应数值模拟研究**  
   ***赵昀***, Brijes Mishra  
   美国匹兹堡煤炭协会-学生报告, 2020
-
 * **露天矿平硐溜井系统井壁破损特性及防护研究**  
   ***赵昀***  
   武汉科技大学研究生“十校十讲”学术论坛, 2017
@@ -140,25 +124,14 @@ redirect_from:
 获奖情况
 ======
 * **有色金属工业科学技术奖一等奖, 中国有色金属工业协会, 2025**
-
 * **五好职工, 兴发集团, 2025**
-
 * **Syd S. and Felicia F. Peng Ground Control in Mining Scholarship, 美国矿业协会, 2022**
-
 * **Mining Engineering Faculty Award, 西弗吉尼亚大学, 2021**
-
 * **WAAIME奖学金, 美国矿业协会, 2021**
-
 * **WAAIME奖学金, 美国矿业协会, 2020**
-
 * **硕士研究生国家奖学金, 教育部,2018**
-
 * **硕士研究生国家奖学金, 教育部, 2017**
-
 * **校三好研究生, 武汉理工大学, 2017**
-
 * **湖北省优秀学士论文, 湖北省教育厅, 2017**
-
 * **硕士研究生卓越奖学金, 武汉理工大学, 2016**
-
 * **全国高等学校采矿专业学生实践作品大赛二等奖, 教育部高等学校矿业类教学指导委员会, 2015**
