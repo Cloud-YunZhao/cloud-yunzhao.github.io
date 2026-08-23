@@ -46,6 +46,9 @@ redirect_from:
   
 论文发表
 ======
+* **Influence of bedding plane strength on mechanical behaviors of synthetic layered rock and implications for longwall gas well protection**  
+  Qingwen Shi, Brijes Mishra, ***Yun Zhao***, Guoli Ding, Changdi He, Zhenhua Ouyang, Shuaifeng Yin, Xin Yu, Xiang Ma, Debing Zhang, Zhengjun Guo & Jiayang Wang   
+  Bulletin of Engineering Geology and the Environment，2026 | [论文](https://link.springer.com/article/10.1007/s10064-026-05241-2)
 * **DEM-FDM investigation of bedding plane properties’ impact on laminated roof stability**  
   Xiang Ma, Qingwen Shi, Brijes Mishra, ***Yun Zhao***, Zhenhua Ouyang, Zhengjun Guo & Jiayang Wang  
   Scientific Reports，2025 | [论文](https://www.nature.com/articles/s41598-025-25269-w)
